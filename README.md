@@ -11,8 +11,10 @@
 Guia de Utilização
 
 
-Eccox Application Environment Management 
+Eccox Application Environment Management
+
 for Parallel Testing
+
 Release 2.0.6
 
  
